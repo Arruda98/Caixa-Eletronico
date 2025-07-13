@@ -1,0 +1,14 @@
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividades\Atividade 8\bin\Debug\net8.0\Atividade 8.exe
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividades\Atividade 8\bin\Debug\net8.0\Atividade 8.deps.json
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividades\Atividade 8\bin\Debug\net8.0\Atividade 8.runtimeconfig.json
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividades\Atividade 8\bin\Debug\net8.0\Atividade 8.dll
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividades\Atividade 8\bin\Debug\net8.0\Atividade 8.pdb
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividades\Atividade 8\obj\Debug\net8.0\Atividade 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividades\Atividade 8\obj\Debug\net8.0\Atividade 8.AssemblyInfoInputs.cache
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividades\Atividade 8\obj\Debug\net8.0\Atividade 8.AssemblyInfo.cs
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividades\Atividade 8\obj\Debug\net8.0\Atividade 8.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividades\Atividade 8\obj\Debug\net8.0\Atividade 8.dll
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividades\Atividade 8\obj\Debug\net8.0\refint\Atividade 8.dll
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividades\Atividade 8\obj\Debug\net8.0\Atividade 8.pdb
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividades\Atividade 8\obj\Debug\net8.0\Atividade 8.genruntimeconfig.cache
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividades\Atividade 8\obj\Debug\net8.0\ref\Atividade 8.dll
